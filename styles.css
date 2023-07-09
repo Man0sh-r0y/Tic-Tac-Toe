@@ -10,9 +10,9 @@
 .wrapper {
   width: 100vw;
   height: 100vh;
-  background-image: url(assets/gradient-bg.jpg);
   background-size: cover;
   background-position: center;
+  background-color: rgb(23, 23, 23);
   display: grid;
   place-items: center;
 }
